@@ -29,7 +29,6 @@ Die Definition und Gliederung der Anforderungen folgen einer nutzerzentrierten M
 Anhand einer User Journey (Kunden:innenreise) sind die Interaktionspunkte und das Erlebnis der Nutzer:innen aufgezeigt. Die daraus entstehenden Anforderungen werden sogenannten Epics (Beschreibung einer Anforderung auf einer hohen Abstraktionsebene) zugeordnet. Die Epics beschreiben die einzelnen Kontakt-Ereignisse sowie übergreifende Funktionalitäten im gesamten Prozess, die für die Nutzung und Akzeptanz der App erforderlich sind. Aus den Epic heraus werden die detaillierten Anforderungen in Form sogenannter User Stories (eine in Alltagssprache formulierte Software-Anforderung) abgeleitet. Die einzelnen Anforderungen werden so strukturiert in den Entwicklungsprozess gebracht.
 
 # USER JOURNEY
-_Aus Gründen der einfachen Lesbarkeit wird auf die geschlechtsspezifische Differenzierung verzichtet. Entsprechende Begriffe gelten im Sinne der Gleichbehandlung grundsätzlich für alle Geschlechter._
 
 ## Beschreibung der Nutzer:innen (Stakeholder)
 Folgende wesentliche Nutzer:innen bzw. Stakeholder sind in die User Journey bzw. in den Gesamtprozess eingebunden und in ihrer Rolle beschrieben:
